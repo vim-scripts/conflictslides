@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4650
+
+Lock to a range of lines delineated by conflict markers and skip through or assemble different content for that section.
+For more, see github and the accompanying blog post:
+https://github.com/dirkwallenstein/vim-conflict-slides
+http://vertuxeltes.blogspot.de/2013/07/conflict-resolution-with-vim-conflict.html
